@@ -1,0 +1,10 @@
+bin/
+lib/
+application.*/
+application.*.*
+.classpath
+.settings/
+.project
+preferences.txt
+problems
+problems.mts
